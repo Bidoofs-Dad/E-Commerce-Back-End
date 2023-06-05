@@ -21,7 +21,7 @@ I ran into a few issues when building this, some were solved, some unfortunately
 
 Below I will include a video of the application working as well as some screenshots!
 
-
+[Challenge 13 Walkthrough.webm](https://github.com/Bidoofs-Dad/E-Commerce-Back-End/assets/126542828/7508921e-d238-4677-afd3-2efc9f4c07a4)
 
 ![E-Commerce-Back-End](./Assets/Screenshot%201.png)
 ![E-Commerce-Back-End](./Assets/Screenshot%202.png)
