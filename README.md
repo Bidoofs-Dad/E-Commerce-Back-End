@@ -23,8 +23,9 @@ Below I will include a video of the application working as well as some screensh
 
 
 
-![E-Commerce-Back-End](./Assets)
-![E-Commerce-Back-End](./Assets)
+![E-Commerce-Back-End](./Assets/Screenshot%201.png)
+![E-Commerce-Back-End](./Assets/Screenshot%202.png)
+![E-Commerce-Back-End](./Assets/Screenshot%203.png)
 
 ## Conclusion
 
@@ -36,4 +37,4 @@ I really enjoyed learning more about Models and routes while working through thi
 
 Below is the link that will take you to the repository of this application!
 
-https://github.com/Bidoofs-Dad/Employee-Tracker
+https://github.com/Bidoofs-Dad/E-Commerce-Back-End
